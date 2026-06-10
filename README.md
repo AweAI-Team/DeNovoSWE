@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![arXiv](https://img.shields.io/badge/arXiv-2602.09892-b31b1b.svg)](https://arxiv.org/abs/2602.09892)
+[![arXiv](https://img.shields.io/badge/arXiv-2602.09892-b31b1b.svg)](http://arxiv.org/abs/2606.10728)
 [![Hugging Face Datasets](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Datasets-blue)](https://huggingface.co/collections/AweAI-Team/denovoswe)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](https://github.com/AweAI-Team/DeNovoSWE)
 [![License](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)](LICENSE)
@@ -20,7 +20,7 @@
 
 ## 📣 News
 - **2026-06-10** 🚀 We released part of our data on [Hugging Face](https://huggingface.co/collections/AweAI-Team/denovoswe).  from DeepSeek-v4-High. 
-- **2026-06-10** 📝 Our paper [**"DeNovoSWE: Scaling Long-Horizon Environments for Generating Entire Repositories from Scratch"**]() is now available on arXiv.
+- **2026-06-10** 📝 Our paper [**"DeNovoSWE: Scaling Long-Horizon Environments for Generating Entire Repositories from Scratch"**](http://arxiv.org/abs/2606.10728) is now available on arXiv.
 
 
 ## FAQ
@@ -58,7 +58,15 @@ Key parameters can be seen below:
 
 If you find this project useful for your research, please consider citing our paper:
 ```
-
+@misc{zhao2026denovoswescalinglonghorizonenvironments,
+      title={DeNovoSWE: Scaling Long-Horizon Environments for Generating Entire Repositories from Scratch}, 
+      author={Jiale Zhao and Guoxin Chen and Fanzhe Meng and Wayne Xin Zhao and Ruihua Song and Ji-Rong Wen and Kai Jia},
+      year={2026},
+      eprint={2606.10728},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE},
+      url={https://arxiv.org/abs/2606.10728}, 
+}
 ```
 
 ## 📄 License
