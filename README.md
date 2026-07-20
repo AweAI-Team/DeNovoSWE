@@ -80,3 +80,7 @@ This project is licensed under the CC BY 4.0 License - see the [LICENSE](LICENSE
 **If you find this project useful, please consider giving it a ⭐ !**
 
 </div>
+
+## 🎗️ Supporters
+
+This project is supported by [RUC AIBox](https://github.com/RUCAIBox).
