@@ -73,6 +73,10 @@ If you find this project useful for your research, please consider citing our pa
 
 This project is licensed under the CC BY 4.0 License - see the [LICENSE](LICENSE) file for details.
 
+## 🎗️ Supporters
+
+This project is mainly developed and maintained by students from [RUC AIBox](https://github.com/RUCAIBox).
+
 ---
 
 <div align="center">
@@ -80,7 +84,3 @@ This project is licensed under the CC BY 4.0 License - see the [LICENSE](LICENSE
 **If you find this project useful, please consider giving it a ⭐ !**
 
 </div>
-
-## 🎗️ Supporters
-
-This project is mainly developed and maintained by students from [RUC AIBox](https://github.com/RUCAIBox).
